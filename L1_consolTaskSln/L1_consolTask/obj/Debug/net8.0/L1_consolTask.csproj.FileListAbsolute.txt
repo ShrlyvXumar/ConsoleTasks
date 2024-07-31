@@ -1,0 +1,14 @@
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\bin\Debug\net8.0\L1_consolTask.exe
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\bin\Debug\net8.0\L1_consolTask.deps.json
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\bin\Debug\net8.0\L1_consolTask.runtimeconfig.json
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\bin\Debug\net8.0\L1_consolTask.dll
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\bin\Debug\net8.0\L1_consolTask.pdb
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.AssemblyInfoInputs.cache
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.AssemblyInfo.cs
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.csproj.CoreCompileInputs.cache
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.dll
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\refint\L1_consolTask.dll
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.pdb
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\L1_consolTask.genruntimeconfig.cache
+D:\Matrix\L1\L1_Task\L1_consolTaskSln\L1_consolTask\obj\Debug\net8.0\ref\L1_consolTask.dll

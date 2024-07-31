@@ -1,0 +1,14 @@
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\bin\Debug\net8.0\L2_Task.exe
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\bin\Debug\net8.0\L2_Task.deps.json
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\bin\Debug\net8.0\L2_Task.runtimeconfig.json
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\bin\Debug\net8.0\L2_Task.dll
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\bin\Debug\net8.0\L2_Task.pdb
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.AssemblyInfoInputs.cache
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.AssemblyInfo.cs
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.csproj.CoreCompileInputs.cache
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.dll
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\refint\L2_Task.dll
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.pdb
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\L2_Task.genruntimeconfig.cache
+D:\Matrix\Tasks\L2_Task\L2_TaskSln\L2_Task\obj\Debug\net8.0\ref\L2_Task.dll
